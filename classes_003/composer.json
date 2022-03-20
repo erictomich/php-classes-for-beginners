@@ -1,0 +1,11 @@
+{
+    "name": "sementeira/classes_003",
+    "description": "Testando na aula 3 o composer",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ExampleApp\\": "src/"
+        }
+    }
+}
